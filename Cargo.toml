@@ -8,7 +8,7 @@ documentation = "https://docs.rs/math_sd"
 readme = "README.md"
 repository = "https://github.com/SnefDenGames/math_sd"
 license = "MIT OR Apache-2.0"
-keywords = ["math", "logic","equations","computational method","calculate"]
+keywords = ["math", "logic","equations","compute","calculate"]
 categories = ["algorithms", "data-structures","mathematics","science"]
 exclude = ["features/*"]
 
