@@ -2,7 +2,7 @@
 /// 
 /// `nss` stands for numbers, symbols and sizes.
 /// It includes some basics, for mathematics and mathematical use
-pub mod ncs {
+pub mod nss {
     /// contains the Greek alphabet
     /// 
     /// An enumeration which includes all the characters of the Greek alphabet and offers some methods to deal with them.
